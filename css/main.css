@@ -1,0 +1,40 @@
+.container {
+  max-width: 1160px;
+  padding: 0 10px 0 10px;
+  margin: 0px auto;
+}
+
+.header__img {
+  height: 50px;
+  width: 50px;
+}
+
+.nav__link {
+  color: #000000;
+  text-decoration: none;
+}
+
+.section__title {
+  margin: 20px 0 20px 0;
+}
+
+.section__content {
+  background-color: #800080;
+}
+
+div p {
+  color: #ffffff;
+}
+
+p {
+  font-size: 14px;
+}
+
+span {
+  font-weight: 800px;
+}
+
+footer {
+  background-image: url(../img/icon/icons8-вконтакте.svg);
+  background-image: url(../img/icon/icons8-линкедин.svg);
+}
